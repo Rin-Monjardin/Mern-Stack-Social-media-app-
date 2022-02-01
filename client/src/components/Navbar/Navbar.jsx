@@ -77,7 +77,7 @@ const Navbar = () => {
                                 <div className={classes.logoutContainer}>
                                     <div style={{ paddingLeft : '10px' }}>
                                         <ExitToAppIcon style={{ verticalAlign : 'middle' , marginTop : '1px' }} />
-                                        <Button  className={classes.hover} onClick={logout}>Logout</Button>
+                                        <Button  className={classes.hover} onClick={logout}>Logout sasas</Button>
                                     </div>
                                 </div>
                             </Paper>
